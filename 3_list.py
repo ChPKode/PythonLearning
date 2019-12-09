@@ -62,7 +62,8 @@ print(s1,s2)
 s1, s2 = s2, s1
 print(s1,s2)
 
-"""Dictionary -- data structure
+"""Tut10
+Dictionary -- data structure
 key : value pair
 """
 dic1 = {}
@@ -84,9 +85,38 @@ print(nestDic)
 print(nestDic.keys())
 print(nestDic.items())
 
+
+"""Tut11 Own Dictionary Exercise"""
 #My own dictionary
 ownDict = {"abate":"become less in amount or intensity","abhor":"find repugnant","abortive":"failing to accomplish an intended result","absolve":"grant remission of a sin to","abstruse":"difficult to understand","accolade":"a tangible symbol signifying approval or distinction","accost":"approach and speak to someone aggressively or insistently","acquiesce":"agree or express agreement"}
 print("List of words in my dictionary : " , ownDict.keys())
 print("Enter word to find the meaning")
 wordIn = input()
 print("Entered word ", wordIn, " meaning is : ", ownDict[wordIn])
+
+
+""" tut12
+Set --Data structure.
+Same as list 
+No duplicates allowed
+
+"""
+s = set()
+l = [1,2,3,4,5,6]
+s_from_list = set(l)
+print(s_from_list)
+
+s.add(1)
+s.add(2)
+s1 = s.union({1,2,3})
+print(s, s1)
+s2 = s.intersection({1,2,3})
+print(s, s1)
+
+print(len(s))
+print(min(s))
+
+print(s.isdisjoint(s1))
+
+s.remove(2)
+print(s)

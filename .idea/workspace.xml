@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b37ce260-11ef-430f-aac4-dfd79a21e36a" name="Default Changelist" comment="" />
+    <list default="true" id="b37ce260-11ef-430f-aac4-dfd79a21e36a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_list.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UiSQJChNcQ2HMyKKMPb22knw1D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager" selected="Python.3_list">
@@ -134,22 +143,22 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="429" y="202" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1301.744@65.24.1301.744" timestamp="1575838968480" />
-    <state width="1278" height="171" key="GridCell.Tab.0.bottom" timestamp="1575916211420">
+    <state width="1278" height="171" key="GridCell.Tab.0.bottom" timestamp="1575918549505">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="171" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1575916211420" />
-    <state width="1278" height="171" key="GridCell.Tab.0.center" timestamp="1575916211419">
+    <state width="1278" height="171" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1575918549505" />
+    <state width="1278" height="171" key="GridCell.Tab.0.center" timestamp="1575918549504">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="171" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1575916211419" />
-    <state width="1278" height="171" key="GridCell.Tab.0.left" timestamp="1575916211418">
+    <state width="1278" height="171" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1575918549504" />
+    <state width="1278" height="171" key="GridCell.Tab.0.left" timestamp="1575918549504">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="171" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1575916211418" />
-    <state width="1278" height="171" key="GridCell.Tab.0.right" timestamp="1575916211419">
+    <state width="1278" height="171" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1575918549504" />
+    <state width="1278" height="171" key="GridCell.Tab.0.right" timestamp="1575918549505">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="171" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1575916211419" />
+    <state width="1278" height="171" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1575918549505" />
     <state x="209" y="32" key="SettingsEditor" timestamp="1575838870153">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
